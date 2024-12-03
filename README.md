@@ -1,0 +1,1 @@
+HTML CSS va JavaScript orqali navigation menu yasadim. Ushbu navigation menu sahifa scroll bo'lgansa scroll pastga yo'nalgan bo'lsa manu yoqoladi va sksincha scroll yuqorida y'nalgan bo'lsa menu ko'rinadi. Bu loyiha orqali JavaScriptda scroll bilan ishlashni o'rgandim.
